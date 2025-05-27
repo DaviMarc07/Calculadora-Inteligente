@@ -26,3 +26,32 @@ Estruturas de repetição (while)
 Tratamento de exceções (try / except)
 Entrada e saída de dados (input(), print())
 Uso de módulos padrão do Python (math)
+
+▶️ Como Executar
+No Google Colab:
+Acesse o Google Colab
+Crie um novo notebook
+Cole o código da calculadora na célula
+Execute a célula
+Interaja com o terminal que aparece abaixo da célula
+Localmente (em sua máquina):
+Certifique-se de ter o Python instalado (recomenda-se Python 3.6+)
+Salve o código em um arquivo chamado, por exemplo, calculadora_inteligente.py
+Abra o terminal ou prompt de comando
+Navegue até a pasta onde salvou o arquivo
+Execute com:
+bash
+
+
+1
+python calculadora_inteligente.py
+📦 Requisitos
+Python 3.x
+Módulo padrão math (já vem com o Python)
+💡 Melhorias Futuras (Sugestões)
+Adicionar interface gráfica (com tkinter)
+Suporte à linguagem natural ("quanto é 5 mais 3?")
+Histórico de cálculos realizados
+Exportação dos resultados para um arquivo .txt ou .csv
+🙌 Contribuição
+Se quiser contribuir com melhorias, correções ou traduções, fique à vontade!
