@@ -1,5 +1,6 @@
 # Calculadora-Inteligente
 🧮 Calculadora Inteligente em Python
+
 Este é um projeto simples de uma calculadora inteligente em Python , desenvolvida para ser executada no Google Colab ou qualquer ambiente que suporte execução interativa com input() e print().
 
 📌 Funcionalidades Implementadas
@@ -19,6 +20,8 @@ Fatorial
 🛡️ Tratamento de erros nas entradas do usuário
 🧪 Compatível com números inteiros e de ponto flutuante
 🧠 Objetivo do Projeto
+
+
 Este projeto foi desenvolvido com o objetivo de praticar conceitos básicos de programação em Python, como:
 
 Estruturas condicionais (if, elif, else)
@@ -27,27 +30,12 @@ Tratamento de exceções (try / except)
 Entrada e saída de dados (input(), print())
 Uso de módulos padrão do Python (math)
 
-▶️ Como Executar
-No Google Colab:
-Acesse o Google Colab
-Crie um novo notebook
-Cole o código da calculadora na célula
-Execute a célula
-Interaja com o terminal que aparece abaixo da célula
-Localmente (em sua máquina):
-Certifique-se de ter o Python instalado (recomenda-se Python 3.6+)
-Salve o código em um arquivo chamado, por exemplo, calculadora_inteligente.py
-Abra o terminal ou prompt de comando
-Navegue até a pasta onde salvou o arquivo
-Execute com:
-bash
 
-
-1
-python calculadora_inteligente.py
 📦 Requisitos
 Python 3.x
 Módulo padrão math (já vem com o Python)
+
+
 💡 Melhorias Futuras (Sugestões)
 Adicionar interface gráfica (com tkinter)
 Suporte à linguagem natural ("quanto é 5 mais 3?")
