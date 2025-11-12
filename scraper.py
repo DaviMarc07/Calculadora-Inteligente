@@ -8,4 +8,4 @@ requisicao = requests.get(url)
 
 soup = BeautifulSoup(requisicao.content, 'html.parser')
 
-print(soup.prettify())
+print(soup.prettify()[:2000])
